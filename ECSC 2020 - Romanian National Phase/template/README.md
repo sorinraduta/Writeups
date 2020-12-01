@@ -1,7 +1,7 @@
 # Warm-up
-Flag: ``
-Category: misc
-Points: 10
+- Flag: ``
+- Category: ``
+- Points: ``
 
 ## Summary
 
