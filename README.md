@@ -4,4 +4,4 @@
 </p>
 
 ## Events
-- [ECSC 2020 - Romanian National Phase](ECSC\ 2020\ -\ Romanian\ National\ Phase)
+- [ECSC 2020 - Romanian National Phase](https://github.com/sorinraduta/Writeups/tree/main/ECSC%202020%20-%20Romanian%20National%20Phase)
