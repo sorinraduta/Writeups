@@ -23,16 +23,19 @@ First, we need to introspect the DB with two queries:
 To get the types:
 
 ![](./screenshots/3.png)
+
 ![](./screenshots/4.png)
 
 To get the fields:
 
 ![](./screenshots/5.png)
+
 ![](./screenshots/6.png)
 
 We see the `randomStr1ngtoInduc3P4in` field so we’ll make a query for this.
 
 ![](./screenshots/7.png)
+
 ![](./screenshots/8.png)
 
 We are spammed with Try harder. Let’s take this output and delete all `{"node":{"author":{"randomStr1ngtoInduc3P4in":"ECSC{Nope! Try harder! Nope! Try harder! Nope! Try harder! Nope! Try h}"}}},`
