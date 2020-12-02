@@ -4,4 +4,4 @@
 </p>
 
 ## Events
-- [ECSC 2020 - Romanian National Phase](/ECSC\ 2020\ -\ Romanian\ National\ Phase)
+- [ECSC 2020 - Romanian National Phase](ECSC\ 2020\ -\ Romanian\ National\ Phase)
